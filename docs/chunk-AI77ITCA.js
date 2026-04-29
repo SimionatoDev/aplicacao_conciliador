@@ -1,1 +1,0 @@
-import{ra as n}from"./chunk-E4BX5U67.js";var i=class e{transform(r,t=30,s="..."){return r?.length>t?r.substring(0,t)+s:r}static \u0275fac=function(t){return new(t||e)};static \u0275pipe=n({name:"truncate",type:e,pure:!0})};export{i as a};
