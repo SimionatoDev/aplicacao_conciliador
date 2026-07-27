@@ -1,1 +1,0 @@
-var i=class{id_empresa=0;id=0;codemp=0;numpro=0;cod_cli_sim="";datini="";id_contrato=0;acordo="";status_arquivos="";status_assinatura="";pagina=0;tamPagina=50;contador="N";orderby="";sharp=!1};export{i as a};
