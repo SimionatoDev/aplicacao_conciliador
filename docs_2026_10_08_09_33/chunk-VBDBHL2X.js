@@ -1,0 +1,1 @@
+var i=class{id_empresa=0;id_cab=0;id_sim=0;id_email=0;id_auditor=0;id_google=0;resposta="";obs="";old_obs="";processado="";upload_cliente="W";user_insert=0;user_update=0;_nome_auditor=""};export{i as a};
