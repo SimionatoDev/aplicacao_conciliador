@@ -1,0 +1,1 @@
+import{sa as i}from"./chunk-X3JENV3B.js";var n=class t{transform(e){let r=e.split(" ");return r.length>0?r[0]:""}static \u0275fac=function(r){return new(r||t)};static \u0275pipe=i({name:"firstName",type:t,pure:!0})};export{n as a};

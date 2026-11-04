@@ -1,0 +1,1 @@
+var i=class{id_empresa=0;id=0;id_origem=0;origem="";id_sol=0;id_exec=0;id_aguardando_resposta=0;flag_acao="";tarefa="";cadastr="";status="";pagina=0;tamPagina=50;contador="N";orderby="";sharp=!1};export{i as a};
