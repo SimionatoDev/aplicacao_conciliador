@@ -1,0 +1,1 @@
+import{sa as i}from"./chunk-TNZ3CET4.js";var n=class r{transform(t){let e="Outros";return t==0&&(e="Abatimento"),e}static \u0275fac=function(e){return new(e||r)};static \u0275pipe=i({name:"CondicaoPagamentoPipe",type:r,pure:!0})};export{n as a};
